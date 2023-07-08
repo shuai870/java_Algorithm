@@ -12,5 +12,7 @@ public class Main {
 //        }
         Hw hw = new Hw();
         hw.find();
+        hw.find();
+
     }
 }
